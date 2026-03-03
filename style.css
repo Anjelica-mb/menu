@@ -1,0 +1,34 @@
+body { 
+font-size: 36px;
+font-family:Arial,sans-serif;
+color: #1C3666;
+background-color: #BBDBE6;
+text-align: center;
+font-style: bold;
+font-weight: italic;
+padding: 20px;
+margin: 10px; 
+}
+h1 {
+font-size: 36px;
+font-family:Georgia,sans-serif;
+text-align: center;
+}
+h2 {
+color: #FFB6C1;
+font-size: 36px;
+font-family:Georgia,sans-serif;
+text-align: center;
+}
+h3 {
+color: #A865C9;
+font-size: 36px;
+font-family:Georgia,sans-serif;
+text-align: center;
+}
+h4 {
+color: #18CFC0;
+font-size: 36px;
+font-family:Georgia,sans-serif;
+text-align: center;
+}
